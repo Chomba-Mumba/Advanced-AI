@@ -1,1 +1,5 @@
 fma_archive/
+.venv/
+venv/
+archive (2).zip
+spectograms/
